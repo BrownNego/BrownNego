@@ -26,6 +26,6 @@ Here are some ideas to get you started:
  ## Connect with me:
 
 [<img align="left" alt="Linkedin logo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin.com/in/oalexoliveira] [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="Yahoo logo" width="24">][alex_oliveira08@yahoo.com.br]
-[<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="Yahoo logo" width="24">][https://discord.com/]
+[<img src="/Discord_img.png" alt="Yahoo logo" width="24">][https://discord.com/]
 
 <br /> 
