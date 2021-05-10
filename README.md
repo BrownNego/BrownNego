@@ -35,9 +35,39 @@ Here are some ideas to get you started:
  <img align="left" alt="Discord perfil tag" width="60px" src="/Discord_img.png" />
 </a>
 
-<br /> <br />
+<br /><br />
 
 ## Training:
 <a href="https://www.codewars.com/users/BrownNego">
  <img align="left" alt="Code Wars" width="200px" src="/codewars_img.png" />
 </a>
+
+<br /><br />
+
+## Github Overview
+
+<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrownNego&show_icons=true" /> 
+<br /><br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrownNego&layout=compact" alt="My Github Stats">
+
+<br /><br />
+
+## Languages
+
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+## Tools:
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
