@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I ~like~ **love** coding
-- 🔭 I’m currently working on a educational platform. Keep an eye for it.
-- 🌱 I’m currently learning Node backend
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 🔭 I'm currently working systems analyst.
+- 🌱 I'm currently learning Full Stack development | App Development | Microsservice | React js, spring boot
 - 👯 I’m looking to collaborate on opensource and group projects.
+- 💬 Ask me about anything. I will try to help you as much as I can.
+- ⚡ Quote: There is always time. You just have to find it.
+
+ ## Connect with me:
+
+[<img align="left" alt="Linkedin logo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin.com/in/oalexoliveira] [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="Yahoo logo" width="24">][alex_oliveira08@yahoo.com.br]
+[<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="Yahoo logo" width="24">][https://discord.com/]
+
+<br /> 
