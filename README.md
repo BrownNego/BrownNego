@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
  ## Connect with me:
 
-[<img align="left" alt="Linkedin logo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin.com/in/oalexoliveira] [<img src="/email_img.png" alt="Email logo" width="24">][alex_oliveira08@yahoo.com.br]
-[<img src="/Discord_img.png" alt="Discord perfil tag" width="50">][https://discord.com/]
+[<img align="left" alt="Linkedin logo | LinkedIn" width="50px" src="/linkedin_img.png" />][linkedin.com/in/oalexoliveira] [<img src="/email_img.png" alt="Email logo" width="50px">][alex_oliveira08@yahoo.com.br]
+[<img src="/Discord_img.png" alt="Discord perfil tag" width="50px">][https://discord.com/]
 
 <br /> 
