@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 <br /> <br />
 
-## Treining
-
+## Training:
 <a href="https://www.codewars.com/users/BrownNego">
- <img align="left" alt="Code Wars" width="60px" src="/codewars_img.png" />
+ <img align="left" alt="Code Wars" width="200px" src="/codewars_img.png" />
 </a>
