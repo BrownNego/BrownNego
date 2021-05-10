@@ -24,8 +24,21 @@ Here are some ideas to get you started:
 - ⚡ Quote: There is always time. You just have to find it.
 
  ## Connect with me:
+ 
+<a href="https://linkedin.com/in/oalexoliveira">
+ <img align="left" alt="Linkedin logo" width="50px" src="/linkedin_img.png" />
+</a>
+<a href="https://linkedin.com/in/oalexoliveira">
+ <img align="left" alt="Email logo" width="50px" src="/email_img.png" />
+</a>
+<a href="https://linkedin.com/in/oalexoliveira">
+ <img align="left" alt="Discord perfil tag" width="60px" src="/Discord_img.png" />
+</a>
 
-[<img align="left" alt="Linkedin logo | LinkedIn" width="50px" src="/linkedin_img.png" />][linkedin.com/in/oalexoliveira] [<img src="/email_img.png" alt="Email logo" width="50px">][alex_oliveira08@yahoo.com.br]
-[<img src="/Discord_img.png" alt="Discord perfil tag" width="50px">][https://discord.com/]
+<br /> <br />
 
-<br /> 
+## Treining
+
+<a href="https://www.codewars.com/users/BrownNego">
+ <img align="left" alt="Code Wars" width="60px" src="/codewars_img.png" />
+</a>
