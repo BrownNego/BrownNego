@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Alex 👋
 
 <!--
 **BrownNego/BrownNego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💻 I ~like~ **love** coding
+- 🔭 I’m currently working on a educational platform. Keep an eye for it.
+- 🌱 I’m currently learning Node backend
+- 👯 I’m looking to collaborate on opensource and group projects.
