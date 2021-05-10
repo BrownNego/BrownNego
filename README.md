@@ -45,11 +45,12 @@ Here are some ideas to get you started:
 <br /><br />
 
 ## Github Overview
-
-<img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrownNego&show_icons=true" /> 
-<br /><br />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrownNego&layout=compact" alt="My Github Stats">
+<p>
+ <img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrownNego&show_icons=true" /> 
+</p>
+<p>
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrownNego&layout=compact" alt="My Github Stats">
+</p>
 
 <br /><br />
 
