@@ -1,5 +1,7 @@
 ### Hi there I'm Alex 👋
 
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 <!--
 **BrownNego/BrownNego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,40 +37,44 @@ Here are some ideas to get you started:
  <img align="left" alt="Discord perfil tag" width="60px" src="/Discord_img.png" />
 </a>
 
-<br /><br />
+<br/><br/>
 
 ## Training:
 <a href="https://www.codewars.com/users/BrownNego">
  <img align="left" alt="Code Wars" width="200px" src="/codewars_img.png" />
 </a>
 
-<br /><br />
+<br/><br/>
 
 ## Github Overview
 <p>
- <img align="left" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrownNego&show_icons=true" /> 
+ <img align="center" alt="Alex's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrownNego&show_icons=true" /> 
 </p>
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrownNego&layout=compact" alt="My Github Stats">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrownNego&layout=compact" alt="My Github Stats">
 </p>
 
-<br /><br />
+<br/>
 
-## Languages
+## Languages and Tools:
 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring) <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap) 
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) <br/>
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)<br/>
+![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br/>
 
-## Tools:
-
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/BrownNego/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=BrownNego)
