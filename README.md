@@ -26,7 +26,7 @@
 
 ## Training:
 <a href="https://www.codewars.com/users/BrownNego">
- <img align="left" alt="Code Wars" width="200px" src="/codewars_img.png" />
+ <img align="left" alt="Code Wars" width="150px" src="/codewars_img.png" />
 </a>
 
 <br/><br/>
@@ -41,21 +41,21 @@
 
 <br/>
 
-## Languages and Tools:
+## Tech Stack:
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++)
+- 💻 &#160; ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white) 
 ![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=spring) <br/>
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+- 🌐 &#160; ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap) 
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) <br/>
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)<br/>
-![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)<br/>
-
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) <br/>
+- 🛢 &#160; ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)<br/>
+- 🔧 &#160; ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
