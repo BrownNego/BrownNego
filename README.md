@@ -10,15 +10,15 @@
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 
- ## Connect with me:
+ ## Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
  
 <a href="https://linkedin.com/in/oalexoliveira">
  <img align="left" alt="Linkedin logo" width="50px" src="/linkedin_img.png" />
 </a>
-<a href="https://linkedin.com/in/oalexoliveira">
+<a href="mailto:alex_oliveira08@yahoo.com.br">
  <img align="left" alt="Email logo" width="50px" src="/email_img.png" />
 </a>
-<a href="https://linkedin.com/in/oalexoliveira">
+<a href="">
  <img align="left" alt="Discord perfil tag" width="60px" src="/Discord_img.png" />
 </a>
 
