@@ -18,9 +18,9 @@
 <a href="mailto:alex_oliveira08@yahoo.com.br">
  <img align="left" alt="Email logo" width="50px" src="/email_img.png" />
 </a>
-<div>
+<a href="#">
  <img align="left" alt="Discord perfil tag" width="60px" src="/Discord_img.png" />
-</div>
+</a>
 
 <br/><br/>
 
