@@ -12,7 +12,7 @@
 
  ## Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
  
-<a href="https://linkedin.com/in/oalexoliveira">
+<a href="https://linkedin.com/in/oalexoliveira" target="_blank">
  <img align="left" alt="Linkedin logo" width="50px" src="/linkedin_img.png" />
 </a>
 <a href="mailto:alex_oliveira08@yahoo.com.br">
